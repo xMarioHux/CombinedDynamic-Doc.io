@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/built_in_interfaces/item_ingredient/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/built_in_interfaces/item_ingredient/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/built_in_interfaces/item_ingredient/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/built_in_interfaces/item_result/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/built_in_interfaces/item_result/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/built_in_interfaces/item_result/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/built_in_interfaces/tag_ingredient/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/built_in_interfaces/tag_ingredient/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/built_in_interfaces/tag_ingredient/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/built_in_tags/is_wrench/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/built_in_tags/is_wrench/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/built_in_tags/is_wrench/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/enums/gas_types/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/enums/gas_types/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/enums/gas_types/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/enums/liquid_types/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/enums/liquid_types/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/enums/liquid_types/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/script_events/recipe_register/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/script_events/recipe_register/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/script_events/recipe_register/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/tag_components/fuel/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/tag_components/fuel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/tag_components/fuel/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/tag_components/pressable/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/tag_components/pressable/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/tag_components/pressable/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/logs/alpha060/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/logs/alpha060/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/logs/alpha060/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/logs/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/logs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/logs/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/built_in_interfaces/item_ingredient/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/built_in_interfaces/item_ingredient/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/built_in_interfaces/item_ingredient/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/built_in_interfaces/item_result/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/built_in_interfaces/item_result/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/built_in_interfaces/item_result/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/built_in_interfaces/tag_ingredient/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/built_in_interfaces/tag_ingredient/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/built_in_interfaces/tag_ingredient/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/built_in_tags/is_wrench/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/built_in_tags/is_wrench/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/built_in_tags/is_wrench/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/enums/gas_types/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/enums/gas_types/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/enums/gas_types/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/enums/liquid_types/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/enums/liquid_types/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/enums/liquid_types/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/script_events/recipe_register/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/script_events/recipe_register/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/script_events/recipe_register/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/tag_components/fuel/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/tag_components/fuel/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/tag_components/fuel/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/tag_components/pressable/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/docs/tag_components/pressable/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/docs/tag_components/pressable/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/logs/alpha060/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/logs/alpha060/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/logs/alpha060/"/>
+    </url>
+    <url>
+        <loc>https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/logs/</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/en/logs/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://xmariohux.github.io/CombinedDynamic-Doc.io/docs/logs/"/>
+    </url>
+</urlset>
