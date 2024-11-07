@@ -1,1 +1,1 @@
-# xMarioHux-CombinedDynamic-Doc.io
+# CombinedDynamic-Doc.io
